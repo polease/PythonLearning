@@ -1,1 +1,2 @@
 https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter
+https://github.com/damianavila/RISE
