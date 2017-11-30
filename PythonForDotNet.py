@@ -601,3 +601,5 @@ my_car.next_mainteinance()
 # |------|------| ------|------|
 # | 10:00 | anyone even without programming experience |https://www.udacity.com/course/introduction-to-python--ud1110 | An detail courseware to lear python from scratch, it also have labs, as always high quality udacity course |
 # | 1:00 |C#/Dot net developer | https://www.youtube.com/watch?v=6TSvV2rsQHg | An one hour side by side comparision between C# and python |
+
+ 
